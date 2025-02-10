@@ -848,4 +848,15 @@ a {
     height: 25px;
     width: 25px;
   }
+
+  .filter__searchbar {
+    width: 30vw;
+  }
+
 }
+
+/* @media (max-width: 1800px) {
+    .filter__searchbar {
+        width: 40vw;
+      }
+} */
